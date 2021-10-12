@@ -1,0 +1,2 @@
+# manavHesap
+Ürünlerin toplam ücreti
